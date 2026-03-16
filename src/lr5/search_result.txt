@@ -1,0 +1,2 @@
+Строка 1: Hello World!
+Строка 4: Hello again!
